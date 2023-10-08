@@ -21,9 +21,3 @@ jobs:
           kaggle_key: ${{ secrets.kaggle_key }}
           kaggle_make_new_kernel: true
           kaggle_metadata_path: test/kernel-metadata.json
-  
-      - name: Download outputs
-        uses: actions/upload-artifact@v1
-        with:
-          name: outputs
-          path: outputs/outputs.zip
