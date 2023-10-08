@@ -14,7 +14,7 @@ jobs:
 
     steps:
     - name: Kaggle deploy as new
-      uses: ./
+      uses: actions/checkout@v2
       with:
         kaggle_username: ${{ secrets.kaggle_username }}
         kaggle_key: ${{ secrets.kaggle_key }}
