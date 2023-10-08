@@ -1,8 +1,7 @@
 {
-    "id": "ngnvntien/github-action-test",
-    "id_no": 3623738,
-    "title": "github-action-test-1",
-    "code_file": "github-action-test.ipynb",
+    "id": "ngnvntien/github-translate-test",
+    "title": "github-translate-test",
+    "code_file": "vinai.ipynb",
     "language": "python",
     "kernel_type": "notebook",
     "is_private": true,
