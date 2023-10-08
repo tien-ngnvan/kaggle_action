@@ -3,6 +3,7 @@ export KAGGLE_USERNAME=$INPUT_KAGGLE_USERNAME
 export KAGGLE_KEY=$INPUT_KAGGLE_KEY
 KAGGLE_FOLDER_PATH=""
 
+pip install --upgrade pip
 pip install kaggle flake8 --upgrade
 
 yelB=$'\e[1;33m'

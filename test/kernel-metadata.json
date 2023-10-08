@@ -1,7 +1,7 @@
 {
     "id": "ngnvntien/github-action-test",
     "id_no": 3623738,
-    "title": "github-action-test-gpu",
+    "title": "github-action-test",
     "code_file": "github-action-test.ipynb",
     "language": "python",
     "kernel_type": "notebook",
